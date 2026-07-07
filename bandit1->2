@@ -7,9 +7,11 @@ The password for the next level is stored in a file called readme located in the
 basic navigation
 
 ##Commands used
-cat
-ls
+-cat
+-ls
 
 
 ##Explaination 
 this level is the starting it just helps the users to get familiar with the most basic commands . Just list all the files andd cat(read) the readme for the next password.
+
+---
