@@ -32,7 +32,7 @@ Each write-up contains:
 | 0–13 | ✅ Completed |
 | 14–34 | ⏳ In Progress |
 
-*(Update this table as you progress.)*
+
 
 ## Disclaimer
 
