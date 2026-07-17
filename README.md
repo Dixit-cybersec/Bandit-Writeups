@@ -29,8 +29,8 @@ Each write-up contains:
 
 | Levels | Status |
 |--------|--------|
-| 0–13 | ✅ Completed |
-| 14–34 | ⏳ In Progress |
+| 0–29 | ✅ Completed |
+| 30-34 | ⏳ In Progress |
 
 
 
